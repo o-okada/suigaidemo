@@ -1,0 +1,17 @@
+   24  pip install spyder numpy scipy pandas matplotlib sympy cython
+   33  pip3 -V
+   34  pip3 install Django
+  151  pip3
+  152  pip
+  153  pip3 install django-bootstrap5
+  154  pip3 install openpyxl
+  156  pip3 install psycopg2
+  157  pip install psycopg2
+  158  pip install psycopg2-binary
+  159  pip install psycopg2
+  160  pip install psycopg3
+  161  pip3 install psycopg2
+  162  pip3 install psycopg
+  164  pip install openpyxl==3.0.10
+ 1147  history | grep pip
+ 1148  history | grep pip > history_pip_20231109.txt
